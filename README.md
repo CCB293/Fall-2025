@@ -6,6 +6,7 @@ This one-year interactive seminar builds skills, knowledge and community in comp
 - Office Location: 81D Koshland Hall
 - e-mail: awolf@berkeley.edu
 - office hours by appointment
+  
 **Graduate Student Instructor: Mark Young**
 - e-mail: markgyoung@berkeley.edu
 - office hours: Tuesday 3-4PM on Zoom (https://berkeley.zoom.us/j/5738669253)
